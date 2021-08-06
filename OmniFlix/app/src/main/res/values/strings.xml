@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetoMoviesLocaliza</string>
+    <string name="username">NOME DE USUÁRIO</string>
+    <string name="password">SENHA</string>
+    <string name="password_hint">Preencha sua senha</string>
+    <string name="username_hint">Preencha seu Login</string>
+    <string name="forgot_password">Esqueci minha senha</string>
+    <string name="remember_password">Lembre-se de mim</string>
+    <string name="sign_in">ENTRAR</string>
+
+    <string name="g_nero_drama">Gênero:</string>
+    <string name="espera_de_um_milagre">Ilha das Rosas</string>
+    <string name="voltar">VOLTAR</string>
+    <string name="texto_sinopse">Um engenheiro idealista constrói a própria ilha no litoral da Itália e a declara uma nação independente, chamando a atenção do mundo — e do governo.</string>
+    <string name="rating">Rating</string>
+    <string name="duration"> 118min -</string>
+</resources>
